@@ -229,20 +229,15 @@ Import about_me from './about_me';
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Vustron&show_icons=true&theme=prussian&layout=compact" width="50%" height="auto" style="display: inline;"/>
-   <img src="https://streak-stats.demolab.com?user=Vustron&theme=prussian&date_format=j%2Fn%5B%2FY%5D&card_width=400" width="45%" height="auto" style="display: inline;"/>
+  <img src="https://streak-stats.demolab.com?user=Vustron&theme=prussian&date_format=j%2Fn%5B%2FY%5D&card_width=400" width="45%" height="auto" style="display: inline;"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Vustron&column=-1&theme=algolia&rank=-?&margin-w=10" style="height: 180px"  />  
 </div>          
 
-<div align="center">    
-  <img src="https://github-profile-trophy.vercel.app/?username=Vustron&column=-1&theme=algolia&rank=-?&margin-w=10" style="height: 180px"  />                                 </div>  
-
-<img src="./assets/border_separator.gif">
-
 ## 🐍 A Snake Eating my Contributions Graph
-<p align="center">
+<div align="center">
   <img src="https://github.com/Vustron/Vustron/blob/850fd8b76097910dce2a65d40347ed627bade2c3/github-contribution-grid-snake.gif">
-</p>
-
+</div>
 <img src="./assets/border_separator.gif">
-<br>
+<!-- Github Stats -->
 
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
