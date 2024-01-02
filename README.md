@@ -9,11 +9,11 @@
 <img src="./assets/border_separator.gif" style="max-width: 100%; height: auto;">
   
 <div align="center" margin="0%">
- <img src="./assets/200volts.gif" width="5%" align="left">
+ <img src="./assets/globe.gif" width="5%" align="left">
     
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=I'm+Michael+Joshua+V.+Ru%C3%B1a;I'm+passionate+about+technologies;I'm+a+full-stack-developer;I+like+learning+new+stuffs" alt="Typing SVG" width="90%" height="auto" align="middle">
     
- <img src="./assets/200volts.gif" width="5%" align="right">
+ <img src="./assets/globe.gif" width="5%" align="right">
 </div>
 
 <img src="./assets/border_separator.gif" style="max-width: 100%; height: auto;">
