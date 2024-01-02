@@ -48,8 +48,11 @@ export const about_me = [
 Import about_me from './about_me';
 
 {about_me.map((info) => (
-  Hi there, I'm {info.name}, a college student and pursuing a degree of {info.degree}. I'm also learning {info.learning} My hobbies are {info.hobbies}. And also check out   
-  my Porfolio: {info.portfolio}
+  <p>
+  `Hi there, I'm ${info.name}, a college student and pursuing a degree of ${info.degree}.
+  I'm also learning {info.learning} My hobbies are ${info.hobbies}.
+  And also check out my Porfolio: ${info.portfolio}`
+  </p>
 ))}
 ```
 <!-- About Me -->
