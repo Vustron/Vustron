@@ -8,10 +8,10 @@
 <!-- Hero -->
 <img src="./assets/border_separator.gif" style="max-width: 100%; height: auto;">
   
-<div align="center" margin="0%">
+<div align="center">
  <img src="./assets/globe.gif" width="5%" height="150px" align="left">
     
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=I'm+Michael+Joshua+V.+Ru%C3%B1a;I'm+passionate+about+technologies;I'm+a+full-stack-developer;I+like+learning+new+stuffs" alt="Typing SVG" width="80%" height="150px" align="middle">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=I'm+Michael+Joshua+V.+Ru%C3%B1a;I'm+passionate+about+technologies;I'm+a+full-stack-developer;I+like+learning+new+stuffs" alt="Typing SVG" width="50%" height="150px" align="middle">
     
  <img src="./assets/globe.gif" width="5%" height="150px" align="right">
 </div>
