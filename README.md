@@ -236,7 +236,7 @@ Import about_me from './about_me';
 
 ## 🐍 A Snake Eating my Contributions Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vustron/Vustron/animation/dist/assets/github-contribution-grid-snake.gif">
+  <img src="https://github.com/Vustron/Vustron/blob/850fd8b76097910dce2a65d40347ed627bade2c3/github-contribution-grid-snake.gif">
 </p>
 
 <img src="./assets/border_separator.gif">
