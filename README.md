@@ -211,9 +211,14 @@ Import about_me from './about_me';
 <!-- Language and Tools -->
 
 <!-- Github Stats -->
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px></picture> Github Stats
+<div align="center" display="flex">
+  <img src="./assets/graph1.gif" width="10%" align="left">
+  <img src="./assets/graph2.gif" width="10%" align="right">
+  <h2>Github Stats</h2>
+</div>
 
 <div align="center">
+  <br/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vustron&theme=prussian" width="100%" height="auto" />
 </div>
 
