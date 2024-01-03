@@ -238,11 +238,17 @@ Import about_me from './about_me';
   <img src="https://github-profile-trophy.vercel.app/?username=Vustron&column=-1&theme=algolia&rank=-?&margin-w=10" style="height: 180px"  />  
 </div>          
 
-## 🐍 A Snake Eating my Contributions Graph
+<img src="./assets/border_separator.gif">
+
+<div align="center" display="flex">
+  <img src="./assets/coding.gif" width="10%" align="left">
+  <img src="./assets/coding2.gif" width="15%" align="right">
+  <h2>🐍 A Snake Eating my Contributions Graph</h2>
+</div>
+
 <div align="center">
   <img src="https://github.com/Vustron/Vustron/blob/850fd8b76097910dce2a65d40347ed627bade2c3/github-contribution-grid-snake.gif">
 </div>
-<img src="./assets/border_separator.gif">
 <!-- Github Stats -->
 
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
