@@ -143,10 +143,10 @@ Import about_me from './about_me';
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" height="35" width="100"/>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Express.js-%23323330.svg?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" height="35" width="100"/>
+      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="expressjs" height="35" width="100"/>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="nodemon" height="35" width="100"/> 
+      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" height="35" width="100"/> 
     </td>
      <td align="center">
       <img src="https://img.shields.io/badge/Mongoose-47A248.svg?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" height="35" width="100"/>
@@ -157,7 +157,7 @@ Import about_me from './about_me';
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" height="35" width="100"/>
     </td>
      <td align="center">
-      <img src="https://img.shields.io/badge/Rest%20Api-000000.svg?style=for-the-badge&logo=Amazon-CloudWatch&logoColor=white" alt="restapi" height="35" width="100"/>
+      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" height="35" width="100"/>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="35" width="100"/>
