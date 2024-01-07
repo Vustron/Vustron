@@ -1,7 +1,7 @@
 
 <!-- Banner -->
 <div align="center">
-  <img width="500" height="200" alt="profile_banner" src="./assets/Animated_Profile_Banner.gif" align="middle">
+  <img width="1000" height="200" alt="profile_banner" src="./assets/Animated_Profile_Banner.gif" align="middle">
 </div>
 <!-- Banner -->
 
