@@ -256,4 +256,28 @@ Import about_me from './about_me';
 </div>
 <!-- Github Stats -->
 
+<!-- Projects -->
+<img src="./assets/border_separator.gif">
+
+<div align="center" display="flex">
+  <img src="./assets/computer.gif" width="10%" align="left">
+  <img src="./assets/present.gif" width="10%" align="right">
+  <h2>Projects</h2>
+</div>
+
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=Flutter-CatTalk&theme=prussian" width="34%" height="auto" style="display: inline;"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=Nodejs-EJS-Express-Mongodb-Library&theme=prussian" width="34%" height="auto" style="display: inline;"/>
+  </div>
+  
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=React-Instagram-Clone&theme=prussian" width="34%" height="auto" style="display: inline;"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=Flutter-Gasto-Notes&theme=prussian" width="34%" height="auto" style="display: inline;"/>
+  </div>
+
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=Flutter-World-Time&theme=prussian" width="34%" height="auto" style="display: inline;"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=PHP-OOP-MongoDB-CRUD&theme=prussian" width="34%" height="auto" style="display: inline;"/>
+  </div>
+
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
