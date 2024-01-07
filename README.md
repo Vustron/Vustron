@@ -224,22 +224,22 @@ Import about_me from './about_me';
 
 <div align="center">
   <br/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vustron&theme=prussian" width="100%" height="auto" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vustron&theme=algolia" width="100%" height="auto" />
 </div>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vustron&theme=prussian" width="48%" height="auto" style="display: inline;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vustron&theme=prussian" width="48%" height="auto" style="display: inline;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vustron&theme=algolia" width="48%" height="auto" style="display: inline;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vustron&theme=algolia" width="48%" height="auto" style="display: inline;" />
 </div>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vustron&theme=prussian" width="48%" height="auto" style="display: inline;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vustron&theme=prussian&utcOffset=+6.5" width="48%" height="auto" style="display: inline;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vustron&theme=algolia" width="48%" height="auto" style="display: inline;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vustron&theme=algolia&utcOffset=+6.5" width="48%" height="auto" style="display: inline;" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Vustron&show_icons=true&theme=prussian&layout=compact" width="50%" height="auto" style="display: inline;"/>
-  <img src="https://streak-stats.demolab.com?user=Vustron&theme=prussian&date_format=j%2Fn%5B%2FY%5D&card_width=400" width="45%" height="auto" style="display: inline;"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Vustron&show_icons=true&theme=algolia&layout=compact" width="49%" height="auto" style="display: inline;"/>
+  <img src="https://streak-stats.demolab.com?user=Vustron&theme=algolia&date_format=j%2Fn%5B%2FY%5D&card_width=400" width="39%" height="auto" style="display: inline;"/>
   <img src="https://github-profile-trophy.vercel.app/?username=Vustron&column=-1&theme=algolia&rank=-?&margin-w=10" style="height: 180px"  />  
 </div>          
 
@@ -266,23 +266,23 @@ Import about_me from './about_me';
 </div>
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=Flutter-CatTalk&theme=prussian" width="34%" height="auto" style="display: inline;"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=Nodejs-EJS-Express-Mongodb-Library&theme=prussian" width="34%" height="auto" style="display: inline;"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=Flutter-CatTalk&theme=algolia" width="34%" height="auto" style="display: inline;"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=Nodejs-EJS-Express-Mongodb-Library&theme=algolia" width="34%" height="auto" style="display: inline;"/>
   </div>
   
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=React-Instagram-Clone&theme=prussian" width="34%" height="auto" style="display: inline;"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vustron&repo=Flutter-Gasto-Notes&theme=prussian" width="34%" height="auto" style="display: inline;"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=React-Instagram-Clone&theme=algolia" width="34%" height="auto" style="display: inline;"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vustron&repo=Flutter-Gasto-Notes&theme=algolia" width="34%" height="auto" style="display: inline;"/>
   </div>
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=Flutter-World-Time&theme=prussian" width="34%" height="auto" style="display: inline;"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=PHP-OOP-MongoDB-CRUD&theme=prussian" width="34%" height="auto" style="display: inline;"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=Flutter-World-Time&theme=algolia" width="34%" height="auto" style="display: inline;"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=PHP-OOP-MongoDB-CRUD&theme=algolia" width="34%" height="auto" style="display: inline;"/>
   </div>
 
    <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=Phonebook-Management-System&theme=prussian" width="34%" height="auto" style="display: inline;"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=EIMS&theme=prussian" width="34%" height="auto" style="display: inline;"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=Phonebook-Management-System&theme=algolia" width="34%" height="auto" style="display: inline;"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=EIMS&theme=algolia" width="34%" height="auto" style="display: inline;"/>
   </div>
 
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
