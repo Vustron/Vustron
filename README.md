@@ -242,7 +242,7 @@ Import about_me from './about_me';
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Vustron&show_icons=true&theme=algolia&layout=compact" width="49%" height="auto" style="display: inline;"/>
-  <img src="https://streak-stats.demolab.com?user=Vustron&theme=algolia&date_format=j%2Fn%5B%2FY%5D&card_width=400" width="49%" height="auto" style="display: inline;"/>
+  <img src="https://streak-stats.demolab.com?user=Vustron&theme=algolia&date_format=j%2Fn%5B%2FY%5D&card_width=400" width="34%" height="auto" style="display: inline;"/>
   <img src="https://github-profile-trophy.vercel.app/?username=Vustron&column=-1&theme=algolia&rank=-?&margin-w=10" style="height: 180px"  />  
 </div>          
 
