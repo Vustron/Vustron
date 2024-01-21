@@ -39,7 +39,7 @@ export const about_me = [
   {
       name: 'Michael Joshua V. Ruña',
       degree: 'Bachelor of Science in Information Technology',
-      learning: 'Next.js',
+      learning: 'Next.js & Prisma',
       hobbies: 'Playing RTS Games, Reading Manga, & Watching Anime',
       portfolio: 'https://vustron-vustronus.vercel.app/',
   },
@@ -206,7 +206,10 @@ Import about_me from './about_me';
   </tr>
   <tr>
      <td align="center">
-       <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" align="center" alt="powershell" height="35" width="100"/>
+       <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" align="center" alt="nextjs" height="35" width="100"/>
+    </td>
+    <td align="center">
+       <img src="https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=prisma&logoColor=white" align="center" alt="prisma" height="35" width="100"/>
     </td>
   </tr>
 </table>
