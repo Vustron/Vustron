@@ -39,7 +39,7 @@ export const about_me = [
   {
       name: 'Michael Joshua V. Ruña',
       degree: 'Bachelor of Science in Information Technology',
-      learning: 'Next.js & Prisma',
+      learning: 'Next.js, Prisma & Python',
       hobbies: 'Playing RTS Games, Reading Manga, & Watching Anime',
       portfolio: 'https://vustron-vustronus.vercel.app/',
   },
