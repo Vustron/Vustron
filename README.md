@@ -293,4 +293,9 @@ Import about_me from './about_me';
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=Discord-Clone&theme=algolia" width="34%" height="auto" style="display: inline;"/>
   </div>
 
+   <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=Next-JS-E-Commerce-Store&theme=algolia" width="34%" height="auto" style="display: inline;"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=Next-JS-E-Commerce&theme=algolia" width="34%" height="auto" style="display: inline;"/>
+  </div>
+
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
