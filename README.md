@@ -211,6 +211,9 @@ Import about_me from './about_me';
     <td align="center">
        <img src="https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=prisma&logoColor=white" align="center" alt="prisma" height="35" width="100"/>
     </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" align="center" alt="python" height="35" width="100"/>
+    </td>
   </tr>
 </table>
 </div>
