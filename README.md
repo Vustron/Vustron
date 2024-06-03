@@ -101,7 +101,7 @@
          <strong>Frontend Tech that I use</strong>  
        <br>
        <br>
-           <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+           <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,flutter" />
          </p>
      </div> 
   </kbd>
