@@ -83,17 +83,6 @@
 
 ### Technologies and Tools
 <div align="center">
-  <kbd>
-     <div align="center">
-         <p>
-       <br>
-         <strong>Deployment, Designing, and other Tools</strong>  
-       <br>
-       <br>
-           <img src="https://skillicons.dev/icons?i=vscode,vercel,powershell,npm,bun,nodejs,github,git,gcp,figma,gradle" />
-         </p>
-     </div> 
-  </kbd>
  <kbd>
      <div align="center">
          <p>
@@ -138,6 +127,17 @@
          </p>
      </div> 
    </kbd>
+    <kbd>
+     <div align="center">
+         <p>
+       <br>
+         <strong>Deployment, Designing, and other Tools</strong>  
+       <br>
+       <br>
+           <img src="https://skillicons.dev/icons?i=vscode,vercel,powershell,npm,bun,nodejs,github,git,gcp,figma,gradle" />
+         </p>
+     </div> 
+  </kbd>
 </div>
 <!-- Language and Tools -->
 
