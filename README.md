@@ -41,14 +41,9 @@
 <br>
 <img src="./assets/border_separator.gif">
 
-<br>
-<div align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there+👋+I'm+Vustron;I'm+a+full-stack-developer;I+like+learning+new+stuffs;Interested+on+new+tech" alt="Typing SVG" width="70%" height="100px" align="middle">
-</div>
-
 ### Connect with me
 <div align="left">
-   <kbd>
+  <kbd>
      <div align="center">
          <p>
        <br>
@@ -74,7 +69,10 @@
          </a>
          </p>
      </div> 
-   </kbd>
+ </kbd>
+ 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=1000&lines=Hey+there+👋+I'm+Vustron;I'm+a+full-stack-developer;I+like+learning+new+stuffs;Interested+on+new+tech;Studying+BSIT;Watching+anime:Play+rts+games" alt="Typing SVG" width="85%" height="100px" align="middle">
+
 </div>
 <!-- Connect with me
 
