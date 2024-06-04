@@ -37,6 +37,13 @@
  </div> 
 <!-- Hero -->
 
+<!-- About me -->
+<br>
+<img src="./assets/border_separator.gif">
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&duration=1000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=1000&lines=Hey+there+👋+I'm+Vustron;I'm+a+full-stack-developer;I+like+learning+new+stuffs;Interested+on+new+tech;Studying+BSIT;Watching+anime;Play+rts+games" alt="Typing SVG" width="100%" height="100px" align="right">
+</div>
+
 <!-- Connect with me -->
 <br>
 <img src="./assets/border_separator.gif">
@@ -51,7 +58,7 @@
        <br>
        <br>
          <a href="mailto:mjveranaruna098@gmail.com">
-            <img src="https://skillicons.dev/icons?i=gmail" />
+            <img src="https://skillicons.dev/icons?i=gmail"  width="auto" height="auto"/>
           </a>
          </p>
      </div> 
@@ -65,14 +72,11 @@
        <br>
        <br>
          <a href="https://github.com/Vustron">
-           <img src="https://skillicons.dev/icons?i=github" />
+           <img src="https://skillicons.dev/icons?i=github" width="auto" height="auto" />
          </a>
          </p>
      </div> 
  </kbd>
- 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=1000&lines=Hey+there+👋+I'm+Vustron;I'm+a+full-stack-developer;I+like+learning+new+stuffs;Interested+on+new+tech;Studying+BSIT;Watching+anime;Play+rts+games" alt="Typing SVG" width="70%" height="100px" align="middle">
-
 </div>
 <!-- Connect with me
 
@@ -101,7 +105,7 @@
          <strong>Frontend Tech that I use</strong>  
        <br>
        <br>
-           <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,flutter" />
+           <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
          </p>
      </div> 
   </kbd>
@@ -126,8 +130,19 @@
            <img src="https://skillicons.dev/icons?i=tensorflow,anaconda,sklearn" />
          </p>
      </div> 
-   </kbd>
-    <kbd>
+  </kbd>
+  <kbd>
+     <div align="center">
+         <p>
+       <br>
+         <strong>For Mobile</strong>  
+       <br>
+       <br>
+           <img src="https://skillicons.dev/icons?i=flutter" />
+         </p>
+     </div> 
+  </kbd>
+  <kbd>
      <div align="center">
          <p>
        <br>
@@ -148,12 +163,12 @@
 ### Github Stats
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vustron&theme=algolia" width="auto" height="auto" />
-  <img src="https://streak-stats.demolab.com?user=Vustron&theme=algolia&date_format=j%2Fn%5B%2FY%5D&card_width=700" width="auto" height="auto" />
+  <img src="https://streak-stats.demolab.com?user=Vustron&theme=algolia&date_format=j%2Fn%5B%2FY%5D&card_width=700&hide_border=true" width="auto" height="auto" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vustron&theme=algolia" width="auto" height="auto" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vustron&theme=algolia" width="auto" height="auto" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vustron&theme=algolia" width="auto" height="auto" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vustron&theme=algolia&utcOffset=+6.5" width="auto" height="auto" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Vustron&show_icons=true&theme=algolia&layout=compact" width="auto" height="auto" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Vustron&hide_border=true&show_icons=true&theme=algolia&layout=compact&card_width=900" width="auto" height="auto" />
   <img src="https://github-profile-trophy.vercel.app/?username=Vustron&column=-1&theme=algolia&rank=-?&margin-w=10" />      
 </div>
 
