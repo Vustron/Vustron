@@ -57,7 +57,7 @@
          <strong>Gmail </strong>  
        <br>
        <br>
-         <a href="mailto:mjveranaruna098@gmail.com">
+         <a href="mailto:vustronvustronus@gmail.com">
             <img src="https://skillicons.dev/icons?i=gmail"  width="auto" height="auto"/>
           </a>
          </p>
