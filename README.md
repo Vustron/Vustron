@@ -37,11 +37,17 @@
      <div align="center">
          <p>
        <br>
-         <strong>Contact me on gmail & github</strong>  
+         <strong>Contact me</strong>  
        <br>
        <br>
          <a href="mailto:vustronvustronus@gmail.com">
-            <img src="https://skillicons.dev/icons?i=gmail,github"  width="auto" height="auto"/>
+            <img src="https://skillicons.dev/icons?i=gmail"  width="auto" height="auto"/>
+          </a>
+           <a href="https://github.com/Vustron">
+            <img src="https://skillicons.dev/icons?i=github"  width="auto" height="auto"/>
+          </a>
+          <a href="https://www.linkedin.com/in/vustron">
+            <img src="https://skillicons.dev/icons?i=linkedin"  width="auto" height="auto"/>
           </a>
          </p>
      </div> 
@@ -106,7 +112,7 @@
          <strong>Frontend Tech that I use</strong>  
        <br>
        <br>
-           <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+           <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
          </p>
      </div> 
   </kbd>
@@ -117,7 +123,7 @@
          <strong>Backend Tech that I use</strong>  
        <br>
        <br>
-           <img src="https://skillicons.dev/icons?i=firebase,postgres,mongodb,flask,prisma,sqlite" />
+           <img src="https://skillicons.dev/icons?i=firebase,postgres,mongodb,fastapi,prisma" />
          </p>
      </div> 
   </kbd>
