@@ -137,34 +137,5 @@
   </div>
 </div>
 
-<!-- Projects -->
 <br>
 <img src="./assets/border_separator.gif">
-
-<div align="center">
-  <h3>Featured Projects</h3>
-  <div style="
-    display: grid;
-    grid-template-columns: repeat(2, 450px);
-    justify-content: center;
-    gap: 1rem;
-    padding: 1rem;
-    margin: 0 auto;
-    @media (max-width: 1000px) {
-      grid-template-columns: 1fr;
-    }
-  ">
-    <a href="https://github.com/Vustron/Flutter-CatTalk" style="width: 100%; display: block;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=Flutter-CatTalk&hide_border=true&theme=tokyonight" width="100%" />
-    </a>
-    <a href="https://github.com/Vustron/tagumlistings" style="width: 100%; display: block;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=tagumlistings&hide_border=true&theme=tokyonight" width="100%" />
-    </a>
-    <a href="https://github.com/Vustron/it415_final_project" style="width: 100%; display: block;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=it415_final_project&hide_border=true&theme=tokyonight" width="100%" />
-    </a>
-    <a href="https://github.com/Vustron/qr_code_scanner" style="width: 100%; display: block;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=qr_code_scanner&hide_border=true&theme=tokyonight" width="100%" />
-    </a>
-  </div>
-</div>
