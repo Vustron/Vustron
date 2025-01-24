@@ -1,35 +1,11 @@
-
-<!-- Banner --->
-<!--<div align="center">
-  <!--<img width="1000" height="200" alt="profile_banner" src="./assets/Animated_Profile_Banner.gif" align="middle"> --->
-  <!--<img width="100" height="200" alt="profile_banner" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=✋😃%20Hey%20there&animation=fadeIn&fontColor=fff&descAlign=50&descAlignY=50&fontSize=70&reversal=false"/>
-</div>
- --->
-
+<!-- Header -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&duration=1000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=1000&lines=✋😃+Hey+there+I'm+Vustron;A+full-stack-developer;I+like+learning+new+stuffs;Interested+on+new+tech;Studying+BSIT;Watching+anime;Play+rts+games" alt="Typing SVG" width="100%" height="100px" align="center">
 </div>
 
-<!-- Main -->
-<section markdown="3" style="display: flex;">
-
-<!-- Hero -->
-<br>
-<div align="center">
-   
-</div> 
-<!-- Hero -->
-
 <!-- About me -->
 <br>
 <img src="./assets/border_separator.gif">
-
-
-<!-- Connect with me
-<br>
-<img src="./assets/border_separator.gif">
- -->
- 
 
 <div align="center">
   <h3>Profile Info</h3>
@@ -37,7 +13,7 @@
      <div align="center">
          <p>
        <br>
-         <strong>Contact me</strong>  
+         <strong>Contact me</strong>
        <br>
        <br>
          <a href="mailto:vustronvustronus@gmail.com">
@@ -50,18 +26,18 @@
             <img src="https://skillicons.dev/icons?i=linkedin"  width="auto" height="auto"/>
           </a>
          </p>
-     </div> 
+     </div>
    </kbd>
   <kbd>
      <div align="center">
          <p>
        <br> 
-         <strong>Profile Views</strong>  
+         <strong>Profile Views</strong>
        <br>
        <br>
            <img src="https://profile-counter.glitch.me/Vustron/count.svg" width="350px" />
          </p>
-     </div> 
+     </div>
    </kbd>
    <kbd>
      <div align="center">
@@ -75,7 +51,7 @@
        <br>
        <br>
          </p>
-     </div> 
+     </div>
   </kbd>
 </div>
 
@@ -84,13 +60,9 @@
   <img src="./assets/terminal.gif" />
 </div>
 
-<!-- Connect with me
-
-
 <!-- Language and Tools -->
 <br>
 <img src="./assets/border_separator.gif">
-
 
 <div align="center">
   <h3>Technologies and Tools</h3>
@@ -98,140 +70,103 @@
      <div align="center">
          <p>
        <br>
-         <strong>Programming Languages that I know </strong>  
+         <strong>Programming Languages</strong>
        <br>
        <br>
-           <img src="https://skillicons.dev/icons?i=javascript,typescript,php,dart,python,go" />
+           <img src="./assets/programming_languages.png" />
          </p>
-     </div> 
+     </div>
   </kbd>
   <kbd>
      <div align="center">
-         <p>
-       <br>
-         <strong>Frontend Tech that I use</strong>  
-       <br>
-       <br>
-           <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+        <p>
+          <br>
+            <strong>Libraries,Frameworks & Databases</strong>
+          <br>
+          <br>
+            <img src="./assets/libraries_frameworks_databases.png" />
          </p>
-     </div> 
+     </div>
   </kbd>
   <kbd>
      <div align="center">
-         <p>
-       <br>
-         <strong>Backend Tech that I use</strong>  
-       <br>
-       <br>
-           <img src="https://skillicons.dev/icons?i=firebase,postgres,mongodb,fastapi,prisma" />
-         </p>
-     </div> 
-  </kbd>
-  <kbd>
-     <div align="center">
-         <p>
-       <br>
-         <strong>For Machine-Learning</strong>  
-       <br>
-       <br>
-           <img src="https://skillicons.dev/icons?i=tensorflow,anaconda,sklearn" />
-         </p>
-     </div> 
-  </kbd>
-  <kbd>
-     <div align="center">
-         <p>
-       <br>
-         <strong>For Mobile</strong>  
-       <br>
-       <br>
-           <img src="https://skillicons.dev/icons?i=flutter" />
-         </p>
-     </div> 
-  </kbd>
-  <kbd>
-     <div align="center">
-         <p>
-       <br>
-         <strong>Deployment, Designing, and other Tools</strong>  
-       <br>
-       <br>
-           <img src="https://skillicons.dev/icons?i=vscode,vercel,powershell,npm,bun,nodejs,github,git,gcp,figma,gradle" />
-         </p>
-     </div> 
+        <p>
+          <br>
+            <strong>DevOps</strong>
+          <br>
+          <br>
+            <img src="./assets/tools_devops.png" />
+        </p>
+     </div>
   </kbd>
 </div>
-<!-- Language and Tools -->
 
 <!-- Github Stats -->
-<br>
-<img src="./assets/border_separator.gif">
-
-
 <div align="center">
   <h3>Github Stats</h3>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vustron&theme=tokyonight" width="auto" height="auto" />
-  <img src="https://streak-stats.demolab.com?user=Vustron&date_format=j%2Fn%5B%2FY%5D&card_width=700&hide_border=true&theme=tokyonight" width="auto" height="auto" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vustron&theme=tokyonight" width="auto" height="auto" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vustron&theme=tokyonight" width="auto" height="auto" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vustron&theme=tokyonight" width="auto" height="auto" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vustron&utcOffset=+8.0&theme=tokyonight" width="auto" height="auto" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Vustron&hide_border=true&show_icons=true&theme=tokyonight&layout=compact&card_width=900" width="auto" height="auto" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Vustron&column=-1&rank=-?&no-frame=true&margin-w=10&theme=tokyonight" />      
+
+  <!-- Profile Summary and Streak -->
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vustron&theme=tokyonight" width="680px" />
+  </div>
+
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;"/>
+    <img src="https://streak-stats.demolab.com?user=Vustron&theme=tokyonight&hide_border=true" width="680px" />
+  </div>
+
+  <!-- Language Stats -->
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vustron&theme=tokyonight" width="340px" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vustron&theme=tokyonight" width="340px" />
+  </div>
+
+  <!-- Activity Stats -->
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vustron&theme=tokyonight" width="340px" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vustron&theme=tokyonight&utcOffset=+8.0" width="340px" />
+  </div>
+
+  <!-- Wakatime Stats -->
+  <div style="margin-bottom: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Vustron&theme=tokyonight&hide_border=true&layout=compact" width="680px" />
+  </div>
+
+  <!-- Trophies -->
+  <div>
+    <img src="https://github-profile-trophy.vercel.app/?username=Vustron&theme=tokyonight&column=6&no-frame=true&margin-w=10" width="680px" />
+  </div>
 </div>
-
-<!-- Github Stats 
-<div align="center" display="flex">
-  <img src="./assets/coding.gif" width="10%" align="left">
-  <img src="./assets/coding2.gif" width="15%" align="right">
-  <h2>🐍 A Snake Eating my Contributions Graph</h2>
-</div>
-
-<div align="center">
-  <img src="https://github.com/Vustron/Vustron/blob/850fd8b76097910dce2a65d40347ed627bade2c3/github-contribution-grid-snake.gif">
-</div>-->
-
-<!-- Github Stats -->
 
 <!-- Projects -->
 <br>
 <img src="./assets/border_separator.gif">
 
-
-  <div align="center">
-    <h3>Projects</h3>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=Flutter-CatTalk&hide_border=true&theme=tokyonight" width="34%" height="auto" style="display: inline;"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=Finance-Manager&hide_border=true&theme=tokyonight" width="34%" height="auto" style="display: inline;"/>
+<div align="center">
+  <h3>Featured Projects</h3>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 1rem; padding: 1rem;">
+    <a href="https://github.com/Vustron/Flutter-CatTalk">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=Flutter-CatTalk&hide_border=true&theme=tokyonight" width="100%" />
+    </a>
+    <a href="https://github.com/Vustron/tagumlistings">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=tagumlistings&hide_border=true&theme=tokyonight" width="100%" />
+    </a>
+    <a href="https://github.com/Vustron/React-Instagram-Clone">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=React-Instagram-Clone&hide_border=true&theme=tokyonight" width="100%" />
+    </a>
+    <a href="https://github.com/Vustron/qr_code_scanner">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=qr_code_scanner&hide_border=true&theme=tokyonight" width="100%" />
+    </a>
+    <a href="https://github.com/Vustron/Threads-Clone">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=Threads-Clone&hide_border=true&theme=tokyonight" width="100%" />
+    </a>
+    <a href="https://github.com/Vustron/Discord-Clone">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=Discord-Clone&hide_border=true&theme=tokyonight" width="100%" />
+    </a>
+    <a href="https://github.com/Vustron/Next-JS-E-Commerce-Store">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=Next-JS-E-Commerce-Store&hide_border=true&theme=tokyonight" width="100%" />
+    </a>
+    <a href="https://github.com/Vustron/Messenger_Clone">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=Messenger_Clone&hide_border=true&theme=tokyonight" width="100%" />
+    </a>
   </div>
-  
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=React-Instagram-Clone&hide_border=true&theme=tokyonight" width="34%" height="auto" style="display: inline;"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vustron&repo=Flutter-Gasto-Notes&hide_border=true&theme=tokyonight" width="34%" height="auto" style="display: inline;"/>
-  </div>
-
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=Flutter-World-Time&hide_border=true&theme=tokyonight" width="34%" height="auto" style="display: inline;"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=PHP-OOP-MongoDB-CRUD&hide_border=true&theme=tokyonight" width="34%" height="auto" style="display: inline;"/>
-  </div>
-
-   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=Phonebook-Management-System&hide_border=true&theme=tokyonight" width="34%" height="auto" style="display: inline;"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=EIMS&hide_border=true&theme=tokyonight" width="34%" height="auto" style="display: inline;"/>
-  </div>
-
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=Threads-Clone&hide_border=true&theme=tokyonight" width="34%" height="auto" style="display: inline;"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=Discord-Clone&hide_border=true&theme=tokyonight" width="34%" height="auto" style="display: inline;"/>
-  </div>
-
-   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=Next-JS-E-Commerce-Store&hide_border=true&theme=tokyonight" width="34%" height="auto" style="display: inline;"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=Next-JS-E-Commerce&hide_border=true&theme=tokyonight" width="34%" height="auto" style="display: inline;"/>
-  </div>
-
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=Messenger_Clone&hide_border=true&theme=tokyonight" width="34%" height="auto" style="display: inline;"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=todo-list-react-go-client&hide_border=true&theme=tokyonight" width="34%" height="auto" style="display: inline;"/>
-  </div>
-  
-</section>
+</div>
