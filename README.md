@@ -150,23 +150,11 @@
     <a href="https://github.com/Vustron/tagumlistings">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=tagumlistings&hide_border=true&theme=tokyonight" width="100%" />
     </a>
-    <a href="https://github.com/Vustron/React-Instagram-Clone">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=React-Instagram-Clone&hide_border=true&theme=tokyonight" width="100%" />
+    <a href="https://github.com/Vustron/it415_final_project">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=it415_final_project&hide_border=true&theme=tokyonight" width="100%" />
     </a>
     <a href="https://github.com/Vustron/qr_code_scanner">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=qr_code_scanner&hide_border=true&theme=tokyonight" width="100%" />
-    </a>
-    <a href="https://github.com/Vustron/Threads-Clone">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=Threads-Clone&hide_border=true&theme=tokyonight" width="100%" />
-    </a>
-    <a href="https://github.com/Vustron/Discord-Clone">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=Discord-Clone&hide_border=true&theme=tokyonight" width="100%" />
-    </a>
-    <a href="https://github.com/Vustron/Next-JS-E-Commerce-Store">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=Next-JS-E-Commerce-Store&hide_border=true&theme=tokyonight" width="100%" />
-    </a>
-    <a href="https://github.com/Vustron/Messenger_Clone">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=Messenger_Clone&hide_border=true&theme=tokyonight" width="100%" />
     </a>
   </div>
 </div>
