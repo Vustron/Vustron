@@ -143,7 +143,7 @@
 
 <div align="center">
   <h3>Featured Projects</h3>
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 1rem; padding: 1rem;">
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); max-width: 1200px; gap: 1rem; padding: 1rem; margin: 0 auto;">
     <a href="https://github.com/Vustron/Flutter-CatTalk">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vustron&repo=Flutter-CatTalk&hide_border=true&theme=tokyonight" width="100%" />
     </a>
