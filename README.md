@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&duration=1000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=1000&lines=✋😃+Hey+there+I'm+Vustron;A+full-stack-developer;I+like+learning+new+stuffs;Interested+on+new+tech;Studying+BSIT;Watching+anime;Play+rts+games" alt="Typing SVG" width="100%" height="100px" align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FF73A&center=true&width=435&lines=%E2%9C%8B%F0%9F%98%83+Hey+There!;I'm+Vustron;A+full-stack+web+%26+mobile+developer;I+like+learning+new+stuffs;Interested+on+new+tech;Watching+anime%2C+Play+rts+games" alt="Typing SVG" /></a>
 </div>
 
 <!-- About me -->
@@ -28,7 +28,7 @@
          </p>
      </div>
    </kbd>
-  <kbd>
+<!--   <kbd>
      <div align="center">
          <p>
        <br> 
@@ -38,7 +38,7 @@
            <img src="https://profile-counter.glitch.me/Vustron/count.svg" width="350px" />
          </p>
      </div>
-   </kbd>
+   </kbd> -->
    <kbd>
      <div align="center">
          <p>
