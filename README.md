@@ -1,4 +1,4 @@
-<!-- Header -->
+<!-- Header --> 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FF73A&center=true&width=435&lines=%E2%9C%8B%F0%9F%98%83+Hey+There!;I'm+Vustron;A+full-stack+web+%26+mobile+developer;I+like+learning+new+stuffs;Interested+on+new+tech;Watching+anime%2C+Play+rts+games" alt="Typing SVG" /></a>
 </div>
