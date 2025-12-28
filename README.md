@@ -92,7 +92,7 @@
      <div align="center">
         <p>
           <br>
-            <strong>DevOps</strong>
+            <strong>DevOps & Tools</strong>
           <br>
           <br>
             <img src="./assets/tools_devops.png" />
@@ -134,7 +134,7 @@
   <!-- Trophies -->
   <!-- <div>
     <img src="https://github-profile-trophy.vercel.app/?username=Vustron&theme=tokyonight&column=6&no-frame=true&margin-w=10" width="680px" />
-  </div> -->
+  </div>-->
 </div>
 
 <br>
