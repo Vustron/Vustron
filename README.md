@@ -137,4 +137,4 @@
 </div>
 
 <br>
-<img src="./assets/border_separator.gif"> 
+<img src="./assets/border_separator.gif">
